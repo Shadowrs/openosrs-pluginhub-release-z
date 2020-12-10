@@ -10,7 +10,7 @@
         "date": "2020-12-10",
         "sha512sum": "6DC23DC9E9C7A187D4E0C7F0B8601F8E8A3FD454AA09C1F7B85B0372D8D841737BE6F613FC384CA35D34FFE7E4458A1C249ABFDCD89FC6ACD7692F41B4A900F5",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/achievementdiary-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/achievementdiary-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -26,7 +26,7 @@
         "date": "2020-12-10",
         "sha512sum": "95F8F1C48D742E1CB1986852E9DF64C08D4520E913B9A782B3BFB54E4E75557FDB600712AFE97AF39D4CCBE8D6EC78D2BF6AA6C95BA010C60E48F949DA30FEE4",
         "version": "0.0.17",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/agility-0.0.17.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/agility-0.0.17.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -42,7 +42,7 @@
         "date": "2020-12-10",
         "sha512sum": "CF15D607078BFE3461CA1E7BE4D95D89F483EC02AEA166C35BB4150804AB2871C1C200C8EC8AB08629C0481F98867B9E048AA20CE4E5D0A64BFD702581B1E7E1",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/ammo-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/ammo-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -58,7 +58,7 @@
         "date": "2020-12-10",
         "sha512sum": "04CFA18F737F99E010AB9AA8EF56C3088C85040727062FD0E021F5464D76895A54736B76C0E710BB199F2183A83115A30DEF1A6235E21B170E468058B450D95D",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/animsmoothing-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/animsmoothing-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -74,7 +74,7 @@
         "date": "2020-12-10",
         "sha512sum": "F68694FB16F0B38EC9C40686A35A90AC5FF445329E896870ACB7CBF00ED2BAEB30F05462E8C3ED66363250B742765C8579398C74046B91A7224FB125FC256D3E",
         "version": "0.0.9",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/antidrag-0.0.9.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/antidrag-0.0.9.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -90,7 +90,7 @@
         "date": "2020-12-10",
         "sha512sum": "34A3F043040654D094DCC61969F25BED7333BD194D86949011BD6985FB2EF88195D6C15F5FC392ED5F71F1A8C56C71C1588C600B8DCA01BAAF031C412F0493B8",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/attackstyles-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/attackstyles-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -106,7 +106,7 @@
         "date": "2020-12-10",
         "sha512sum": "4C4E9D4A22BC1B16FE1E3653CCA9A501C422374F7B2EA87E328F6B4A093A9706C7C86D8C58BD8E5D5489457832F7C43B0607CBA26952D7E3C602D57E905729E3",
         "version": "0.0.9",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/bank-0.0.9.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/bank-0.0.9.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -122,7 +122,7 @@
         "date": "2020-12-10",
         "sha512sum": "0575CFA2F3CE1ACF3AE80EB258949DAF720FE45CA8EC5BB56C641EEA74BB7134373106F2A0A66A62649BD067494C19F6288A941864732A7A354472E3E527CE9E",
         "version": "0.0.18",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/banktags-0.0.18.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/banktags-0.0.18.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -138,7 +138,7 @@
         "date": "2020-12-10",
         "sha512sum": "30DCEB700B73903A334D2345311A833B96F51FABCD112CB626665240ADB908E886E207D4AA2A546BA7CBCCB4CBAA14B51E293A4FE7962FB33D9CCE642DFF8068",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/banlist-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/banlist-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -154,7 +154,7 @@
         "date": "2020-12-10",
         "sha512sum": "43FAE705EDA624DEDF5A13A17DA253DDB76278133FABD39E75FF6E4094F7637CD245725D6155C5638CF7D055BD890985CD1430197F0A977B4B1A7646FF0866FA",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/barbarianassault-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/barbarianassault-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -170,7 +170,7 @@
         "date": "2020-12-10",
         "sha512sum": "FF1FCEDD75B12EBB083C311C93F8D7C0214DC84538E744F0B5A4E437CE9D99B06F13123FB0FFF661B9B3A5BDD1B5E245D2549A48D289C17271B9080418D99C92",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/barrows-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/barrows-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -186,7 +186,7 @@
         "date": "2020-12-10",
         "sha512sum": "BCFA878DD53214FB01C1742DDCD8317263F4B641FC738B9DD92EABE797D0DD9AC8E7D7770508A23520921E5EBD040D982E56227D6E9C9441ACFD5254225CB5C6",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/blastfurnance-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/blastfurnance-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -202,7 +202,7 @@
         "date": "2020-12-10",
         "sha512sum": "BA97634CB27044953DC203F52B8E38A6457F58F0BCFC5B09DB63FC0F5B457CCE6265677B6CA59921C9A0458D9723C200927A6BA49766F60896D45E422CEF1421",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/blastmine-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/blastmine-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -218,7 +218,7 @@
         "date": "2020-12-10",
         "sha512sum": "79E723F104CEB177918A097569CFC2DC7284C3D7FF05635752FF57E4EFD544586D02A9DB02B4557E80B604A99E2070E74DB2665BCC3FE73BC87CB1889FBB3407",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/boosts-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/boosts-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -234,7 +234,7 @@
         "date": "2020-12-10",
         "sha512sum": "243E0D2C0179E4D09977175B847E23568B94664A0F11B4D968C79CA760C5E71D1B72C9ECFE3F844FC576C8C7A4329DCC6FE753DF071597DB8075FF901AD5142B",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/bosstimer-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/bosstimer-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -250,7 +250,7 @@
         "date": "2020-12-10",
         "sha512sum": "278D00655E13553DD98683D2CC7B15F10B948C861E0FA6E3F187D7B9E94FA4383E8ABF95BC9A8BB1B4D32E3B120DF3ABC0C7B7F3A6E9E64E005ED551B7BCC888",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/bosstimetracker-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/bosstimetracker-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -266,7 +266,7 @@
         "date": "2020-12-10",
         "sha512sum": "4CC428873C21A8E78BDD4F29A8C88E09AE7F16AC65FF98F1F3D777B3BA0D1C204746EA473A52E33BDA6B07A143FB441EEEBB5221548F9E298662DB193D217DF8",
         "version": "0.0.9",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/bronzeman-0.0.9.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/bronzeman-0.0.9.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -282,7 +282,7 @@
         "date": "2020-12-10",
         "sha512sum": "8A13946A8FF4A79487AC96DE086F26CBA3C339BD1E1FDD8B4F9BC5EEA05AE0FE7643956BE7A47B90F3D9327A36EC190E4E94C972F8E3C3A30772E76E769F803A",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/camera-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/camera-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -298,7 +298,7 @@
         "date": "2020-12-10",
         "sha512sum": "ACE7FEA588F03B792C4E475C058D80367FCBA6E3A0D4F863A38FA02BCE1462F6B774C6D18762D9AE24ED7BF3FD3F705CECBBDA5951AC25A808B86477793ACD36",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/cannon-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/cannon-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -314,7 +314,7 @@
         "date": "2020-12-10",
         "sha512sum": "FB1D22156B70E92D9BF6E423DE86780196A6694E156A666264BE12AE9A0BC8472954388DBDB5B78B31EEE47E19BEF7D81DB36B7175752AA5CBC4761B236D2750",
         "version": "0.0.14",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/chatcommands-0.0.14.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/chatcommands-0.0.14.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -330,7 +330,7 @@
         "date": "2020-12-10",
         "sha512sum": "1ACEB9496C2C453DD89AE6BA17DB9F4DEC2BF8819F28418D7346A145EC5DFDDC3919AF4A1997B5241AB1C4810E1A15E8C9C0B386FA49554CDD9058F6BAB23E49",
         "version": "0.0.10",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/chatfilter-0.0.10.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/chatfilter-0.0.10.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -346,7 +346,7 @@
         "date": "2020-12-10",
         "sha512sum": "D6399EAC549548266D9AB5BAC30225E041ABDB0CBEA9BEC0672545C7CE4944143688B736AA2BB4AFAD97C3A9C148984FFE5075DB66DD00410B23BF435DC15E82",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/chathistory-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/chathistory-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -362,7 +362,7 @@
         "date": "2020-12-10",
         "sha512sum": "7BC465C0618973EE31DB8B872BCC6C807A7B8ECA765B58AB1361AFEBCB5DFAF14A4786DC5ACCB09DFE2BCDEDC81C570D7413208F4D896BF30C4FD574C25CF58A",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/chatnotifications-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/chatnotifications-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -378,7 +378,7 @@
         "date": "2020-12-10",
         "sha512sum": "211D51FA599C842895CB6B315AF8064A7CD93A6E7FD2B401D4B3332C137A780459E0E79D2A7BE6305E579FEDC8A5910EF8E942B19D3B8B3E99511C256AD5729E",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/chattranslation-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/chattranslation-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -394,7 +394,7 @@
         "date": "2020-12-10",
         "sha512sum": "216640555907EE93C7884297E6A380505B6CE06325354B73A3C3841EF4B67FBEEF6CD9CF1F1EF4A0DB51EAF6CC5B1AF27B7F4CBD5176642D64B3A5E716483366",
         "version": "0.0.10",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/clanchat-0.0.10.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/clanchat-0.0.10.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -410,7 +410,7 @@
         "date": "2020-12-10",
         "sha512sum": "7AE98A5A7EB2B362787B5E28A4158726202ED8F0D959C8CAE66BD8B59E33DB3C8FCA455855F0547E95A6FBACFA55826ADF9C53EF84956F0A70F6E3DD7A42A975",
         "version": "0.0.1",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/classic-377-0.0.1.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/classic-377-0.0.1.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -426,7 +426,7 @@
         "date": "2020-12-10",
         "sha512sum": "80B1EBBAF6F85C43B69112F661BC23B292E36347DF2CD3318E9499EBFF081037A2CF8C3B0DCADFBC9EE215574E9AAD6253EFA9BCC5A6AAC5198573012C24C418",
         "version": "0.0.39",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/cluescroll-0.0.39.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/cluescroll-0.0.39.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -442,7 +442,7 @@
         "date": "2020-12-10",
         "sha512sum": "F597DC9EFCA11B32865E044655AF9EBD18AB6F88DCA3DC621517A5871DDDE2B0466CD2196F709FC38D519A439DAEFB42F8506D882595CA79169075F279073C05",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/combatlevel-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/combatlevel-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -458,7 +458,7 @@
         "date": "2020-12-10",
         "sha512sum": "4AC6647DA07F59B60AF7D54E74564E0E829A820AA72B6EC3985E13229ABE5D3DB6A2AAB38F00D2BC88047E37DFE421CD0861E6DDA057936F4135C8E61EA1C9C3",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/cooking-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/cooking-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -474,7 +474,7 @@
         "date": "2020-12-10",
         "sha512sum": "8848D3460F7D146F14F94A0C828B3AEDBDE22A0300DB64FC1EE9DD02362F0D3179FABB6393AF33C13E3FC3AE24580651138D16B7DB1C117951FDF518132676A3",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/corp-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/corp-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -490,7 +490,7 @@
         "date": "2020-12-10",
         "sha512sum": "F39A08CCBDAB18C25C4E8B07CF3B280E6C2EAB5AA3E2F562DB70A9AF8E1196E80B112830435F4D62E110AAFE1A236BA94DB82BB8DB81FA4022ADFAA8A324E1A9",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/customclientresizing-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/customclientresizing-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -506,7 +506,7 @@
         "date": "2020-12-10",
         "sha512sum": "17F4D6A89E3C32DA5296B56F469BB50BE5A13DDF2768A83EEC607862B36FE615DF1848E1149713EB1535AE9BCB30BE3D9BFA4597A98172A36CAC7F4BA93EF4E0",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/customcursor-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/customcursor-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -522,7 +522,7 @@
         "date": "2020-12-10",
         "sha512sum": "B89A542E1E38ADFDA68B35FCA98266CBF4D3A21CFB84E7B2407CF0AD6F531B67391E5EFE2A990F94C5759D7ABB6ABD8E7F82E30370CD10A5433E11EDEC3BFFB1",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/dailytaskindicators-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/dailytaskindicators-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -538,7 +538,7 @@
         "date": "2020-12-10",
         "sha512sum": "8D8CE503D20E6CF06082881D4FE5A6ED6413CADA71D46C0FA00AA4FFA2906FBAA9BB3F05EF61E2A80DA4DB05F55B6C520754BD7B5960ACE758DE3E09ED8D696B",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/deathindicator-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/deathindicator-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -554,7 +554,7 @@
         "date": "2020-12-10",
         "sha512sum": "4DFABD50530D86EB54DA2C34195C7397B000D08925B2752BD5DCA18CEEA8E8C6266813833F29281C62A146B77B1A1FE6C640204C81B43DCF6FF037161A571500",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/defaultworld-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/defaultworld-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -570,7 +570,7 @@
         "date": "2020-12-10",
         "sha512sum": "E858E2EF68CC339E18B1B31C88CDB02AAA32C1FDA2AD92A4749B1E9EF3364D35B0B2CDEF51EAD82E65986D180DADF2F0B328F56440FC21155E44FC7BADDF829C",
         "version": "0.0.22",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/devtools-0.0.22.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/devtools-0.0.22.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -586,7 +586,7 @@
         "date": "2020-12-10",
         "sha512sum": "F7DE3184E8596D5C2EFEB38A6E3E5AE27B2F6B454742EFD582841B014523D93C89B91F900FDE22F71FCFBEE5C4EBC4FB1522E93D53FC0E8D22DD84E52E50FA6C",
         "version": "0.0.16",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/discord-0.0.16.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/discord-0.0.16.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -602,7 +602,7 @@
         "date": "2020-12-10",
         "sha512sum": "468976CA04F38CE3B2E14143F15692B3099319BBB0FFFEB552376BED2B2F4E2680A77F8A3B1648AA7080669F7AED8D145770DC291575791D5C4C4CE15A21E01E",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/dpscounter-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/dpscounter-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -618,7 +618,7 @@
         "date": "2020-12-10",
         "sha512sum": "7BC5C42649A2605FBD4A394F299D14FCCBCB32B49D00B5871779156E448A1BAA33B2CFE3308AC0DB3D74AA3F7DFFB2E20B9949E918C82655BDCC8B103E0AC848",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/driftnet-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/driftnet-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -634,7 +634,7 @@
         "date": "2020-12-10",
         "sha512sum": "7D5D2F3C4169D3F6EC7AC9550AC4CF1530FE7722CF83C13F0C4E6BE0BFEAECA29BF3FCB16639B73C8459E1AEDCC258370B19CFE7F76F7B33A4C10D8F863CF1F8",
         "version": "0.0.10",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/emojis-0.0.10.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/emojis-0.0.10.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -650,7 +650,7 @@
         "date": "2020-12-10",
         "sha512sum": "ECD23FA5433F3B784218101676AFC2196F70799B3B58CF43F7BC5E91BA812B31843719EE581C2B6C9157512D290ADF616F97038F3215F662622EB0413CE77C50",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/entityhider-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/entityhider-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -666,7 +666,7 @@
         "date": "2020-12-10",
         "sha512sum": "4B9F3E9D36EAA3D2301714697A68D097F53EEEE8C3A9A3F2066A4B5768DE9261A939A09B8D3CB3A556C6DD6D10AE9902F162A205A864ADA2CF940CA0CF661E34",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/equipmentinspector-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/equipmentinspector-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -682,7 +682,7 @@
         "date": "2020-12-10",
         "sha512sum": "12A696A01C29EA5E343DA962D136832A28F10E78A6248D154B0EEAF911EF3FF50415580246A0DF5308F002CCA8FE38C148EB6CB1E967CC7BD552A756657ACE71",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/examine-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/examine-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -698,7 +698,7 @@
         "date": "2020-12-10",
         "sha512sum": "D3BF94C6654B97D7354CA4DFCC640263D1F6D0F8BDA1FCDAE85CD4466281147843920BE825C51E25FC8EEB046B855D0366586ED68409ADD25163275D22FAD732",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/experiencedrop-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/experiencedrop-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -714,7 +714,7 @@
         "date": "2020-12-10",
         "sha512sum": "99A8A3D9E1F1497309366DF65DB4CF1BF427926B5EE5C81EB9BB1F3052532F57D7B8F0FF378F15E0DAB6BFABD38C611CDBDFC0C27E7DBD9FBCC7DA06043A1E48",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/fairyring-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/fairyring-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -730,7 +730,7 @@
         "date": "2020-12-10",
         "sha512sum": "04D799E5FDF18D5437202321EB0F0523FC8A57ACC2F905F265768289939E0059F00B002E81D2C13E8FB4FF42085A12D3DF682C19E4EF06E6EEF3E58CDCC43843",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/feed-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/feed-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -746,7 +746,7 @@
         "date": "2020-12-10",
         "sha512sum": "F4069F135725C1E21234317FD174F7D32CDF79C27D448A5F2F41911D171F4B92EAD0E17BBA4BA0A058B169D85A99E0A2E18160C34EAD6362E111DBC715FCAC01",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/fishing-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/fishing-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -762,7 +762,7 @@
         "date": "2020-12-10",
         "sha512sum": "254B64948DF316DAAA944A42EA965F84D98FA97BB2EC39D2D0540104B35C6081B66C8C88E0F7198242892727465372181778F21DE2CC7F8F40719A2104BA5314",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/fps-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/fps-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -778,7 +778,7 @@
         "date": "2020-12-10",
         "sha512sum": "8533C9F4ACCD1FD48F2AFA25E59E62B9D5AC7A5B60B8BF6CD819AA0B918EA4A0B90A91CACD0A81480F4C52C8590FA5691D838A6123F402321D6CDD61BE3D95C0",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/friendlist-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/friendlist-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -794,7 +794,7 @@
         "date": "2020-12-10",
         "sha512sum": "4DD391BBF4CAB95C24D0054B918B833DCBADA528AD40AB32DF61D81A25B2FC9E65471DF73327E3A1B48CD9C3748ED37F19B3895F95D4FFFECE6005D9CF40FE54",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/friendnotes-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/friendnotes-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -810,7 +810,7 @@
         "date": "2020-12-10",
         "sha512sum": "71BC7F740EF6945B731C525D8212FA9C4E15BF09F9C0E6BB57A226DEFB6356622E9F9C3119DD3905E64DADB3E0B54D14962FB8393E2A8122B8254DA5CAE10E87",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/friendtagging-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/friendtagging-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -826,7 +826,7 @@
         "date": "2020-12-10",
         "sha512sum": "2D990E663C2956AD5B68A77475079E010039601778C26868F24EDEEA076180EF00132AC6981FC4D6EEA9E3A8A51CC27BCC4370DB5752F44C9E5B50DB623BEFB5",
         "version": "0.0.23",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/gpu-0.0.23.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/gpu-0.0.23.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -842,7 +842,7 @@
         "date": "2020-12-10",
         "sha512sum": "1710AA9D5E0410D3451A3FB3CFEC2FFEF010C8D83AE7D982CDDBD2448542A06998B12AF008D2D1DCBB52098865D465E98300832BB965C27206E3748A0F78A055",
         "version": "0.0.16",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/grandexchange-0.0.16.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/grandexchange-0.0.16.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -858,7 +858,7 @@
         "date": "2020-12-10",
         "sha512sum": "F45A2D0F88F16436FE5A76E83D628876AAC064CCFF0E620C9F4779A702898533A806D0090E3EC8A1A83117249DE10ECB92792C809A67F84B9E827BCAE9B0B11E",
         "version": "0.0.17",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/grounditems-0.0.17.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/grounditems-0.0.17.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -874,7 +874,7 @@
         "date": "2020-12-10",
         "sha512sum": "F021D9A4281E86F37490846E5CF742EF975BA4B53FE720BEB19825277A219EF6F6D57701010F26DF71509AF291688038227CFFF7E22E69D1E3C8E586011C1D06",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/groundmarkers-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/groundmarkers-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -890,7 +890,7 @@
         "date": "2020-12-10",
         "sha512sum": "21DF4536BE7B5EE408D3610EC298E1AC03F4CB2EE3D5D1471430FBF7FD75ADFAF94B62A941F086D27C4C70E65DBE3239652B2A6CDFCAE3C16CC551669B93FB88",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/herbiboar-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/herbiboar-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -906,7 +906,7 @@
         "date": "2020-12-10",
         "sha512sum": "C5C1B23366B9549470FE6E40F8F51B9A362FB3F8097EB8D48ABA9198A1AB4FA0613AD679DB49CFD8E822B7947B38D29538A359D58EDC8544C7A04AF52F8E2C5D",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/highalchemy-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/highalchemy-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -922,7 +922,7 @@
         "date": "2020-12-10",
         "sha512sum": "69F3F7B948111C0C49D4231D998896679B8353ADCC9C5433568AA331EAABEADB7AE69AE2D38E6DB75DBC155D426E37C4C6C26B3A81767A63D36CFEA94612FC72",
         "version": "0.2.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/highscore-0.2.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/highscore-0.2.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -938,7 +938,7 @@
         "date": "2020-12-10",
         "sha512sum": "8E7372016B1CF3E7FFCD525476E210C2BDEB9E54F36AAC2ED965B5E622CD941BCDF815575F438B7D60B0C74FC171A495FDA2CC625AEDBEBEB81F5AFE85BBC0DB",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/hunter-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/hunter-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -954,7 +954,7 @@
         "date": "2020-12-10",
         "sha512sum": "09BA51F22B1AAFA9880585605444D96B13816C8A23A1BB4FB95368493FB02CA3059F400834699DA4F78558C74C3A88DEEC04864E9920C63E798CB70EEFBFAB5F",
         "version": "0.0.9",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/idlenotifier-0.0.9.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/idlenotifier-0.0.9.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -970,7 +970,7 @@
         "date": "2020-12-10",
         "sha512sum": "1B98C18D4604987B70BC9B11A43B534D85900C07E4E6E0287E1AFBEC09606D5F2AB6A3D05D4CAE1A60BB0510FDCF1C3382F08DB8F03F351539F4C1519A0EE428",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/implings-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/implings-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -986,7 +986,7 @@
         "date": "2020-12-10",
         "sha512sum": "906DA04ACA2FD04C64FE6540DD3F562FCD70AE92D79E609DDB47260BFC61748E1662473DD9B62DA76D996E473FEA4868378B056784249FEFEE83452FF282A0A0",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/instancemap-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/instancemap-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1002,7 +1002,7 @@
         "date": "2020-12-10",
         "sha512sum": "A2F0934F324FC9A8729C7CEEBDF6290E9A7A77311758168E6F89275A7500C4835B27A3EC3610FF52F77889E76E2FA023A4A8C9B12F8D43EAAFB77541D690B1D6",
         "version": "0.0.9",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/interfacestyles-0.0.9.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/interfacestyles-0.0.9.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1018,7 +1018,7 @@
         "date": "2020-12-10",
         "sha512sum": "AB1F3D9A128BCA7CE647651F2E931A999103ABA6B94D07DFB5B0C72A8723259306E6D918E73A85027F657586D999F238BAA8E257C1B7568B1F78BCF5DFB3ADEA",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/inventorygrid-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/inventorygrid-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1034,7 +1034,7 @@
         "date": "2020-12-10",
         "sha512sum": "8C6A2747AF432030DF16979981C5415E0586E67D2F2E73E9D7CF9FF448D3B121C3141F28CAFA3FD192A5788272CB5DEEBA703C2604C47F9A2967A3105A24AC90",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/inventorytags-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/inventorytags-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1050,7 +1050,7 @@
         "date": "2020-12-10",
         "sha512sum": "CE0246150C68B5C24A3FE2158520D15253D2919A565EA8C7731F1623B7E5BAE80D446FCDF9B9F2814E9B372B45080E5754B9CB03CA358196E1640691A6727D8B",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/inventoryviewer-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/inventoryviewer-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1066,7 +1066,7 @@
         "date": "2020-12-10",
         "sha512sum": "D43C32F11B89173A0464EA125F254552F3C6786ECFAF67E4B3E8139141D1B80AD0EA7E1A8C428F730001F4A79D3BAE78EC2BFC65ECDD98F629E1E80C6EDA84C9",
         "version": "0.0.10",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/itemcharges-0.0.10.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/itemcharges-0.0.10.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1082,7 +1082,7 @@
         "date": "2020-12-10",
         "sha512sum": "475DD89C049D96C281BEF5410568E2EBDAB4935A5785E89BF9721FC7456E970F95602FEE4D59D881A4A605CC0693ABA60AED3E748562639B43FACF8E4B5C2616",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/itemidentification-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/itemidentification-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1098,7 +1098,7 @@
         "date": "2020-12-10",
         "sha512sum": "83220DFBB3BF26F572C877D47106D598F64663E76EE34F855094B0C10B35CC46ABA1754326E07FAC103B7EBB64CE87FBA7090DB1D1513770B15C9A6DA06DDBC0",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/itemprices-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/itemprices-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1114,7 +1114,7 @@
         "date": "2020-12-10",
         "sha512sum": "701632D93E3EFF3825E2D9566FD5A8501FCAACBBB88C063012AEFCC934AF9D1E21919106589EC53EA707A8B81890E95E1031B52E50BD58B03F4302609769673F",
         "version": "0.0.10",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/itemskeptondeath-0.0.10.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/itemskeptondeath-0.0.10.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1130,7 +1130,7 @@
         "date": "2020-12-10",
         "sha512sum": "6CDD7BB55B0FAF95BF257C89708E9730264F43C9B3F8B96E62DE3C217248953CC40DBC3B58874959B7386FAA68BEBC2A6EE5F92735538E4B560ABC194EED9C80",
         "version": "0.0.13",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/itemstats-0.0.13.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/itemstats-0.0.13.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1146,7 +1146,7 @@
         "date": "2020-12-10",
         "sha512sum": "2F8E3FD6BF5DF94C3858162367A3F88CAD54519130A5C9B8C843F3AD3982D547A3889A8906A00B3E6EEF2D248303D9FEFAECF4915C24D69D236800FC84A0CBE9",
         "version": "0.0.10",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/keyremapping-0.0.10.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/keyremapping-0.0.10.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1162,7 +1162,7 @@
         "date": "2020-12-10",
         "sha512sum": "861CE51C3546A75C5A63A2A23DDCBF851CE04D52B644D0D3684BBE2223CC1A971A0F23B03D24D996909BB850A72E73030CE54046FC45EE8D56379477B216D429",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/kingdomofmiscellania-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/kingdomofmiscellania-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1178,7 +1178,7 @@
         "date": "2020-12-10",
         "sha512sum": "5DCA5B0499CA83CD676565BE60565DA628B708FBBD7A7DF4C9F989A529BA61AD6C0F186EA70E9AAF5DE3F62F944B7BCF9FD7BE5B9DBAF2297B6EC4E1651333D8",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/kourendlibrary-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/kourendlibrary-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1194,7 +1194,7 @@
         "date": "2020-12-10",
         "sha512sum": "8B33623B924C2220AFACE1C44D730FA2878FBEB0E3DD73A78C11314DC7A3A9CE03F927B6926E4ADE6752AC54652D25B2F8F09566DD1A00BD0303AD195DAA8CF0",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/learntoclick-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/learntoclick-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1210,7 +1210,7 @@
         "date": "2020-12-10",
         "sha512sum": "573C2F55B56AF4014DE07E4A4D3CD194219DE0B847D8B2CCC3A93995DDB474A830F37329824CA2E50A0794A87DF2C47BBCB502B5C6091EA92CB9FA2DE75D3241",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/loginscreen-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/loginscreen-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1226,7 +1226,7 @@
         "date": "2020-12-10",
         "sha512sum": "AD81BD2697938A108101B2CFA59B935E0D5A183042450FD0D263DDA0FB2622300E6429DD46AEDD7E2AAEC48AC4B4B74DCCDEBB5B2A9482800A2DE458F966C1B2",
         "version": "0.0.27",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/loottracker-0.0.27.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/loottracker-0.0.27.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1242,7 +1242,7 @@
         "date": "2020-12-10",
         "sha512sum": "0C003471F0C7F0658E3E796B562A59A1FCADA80DA63C596647FA6748F1DF14292BE0D219F2FA0D07FDC8AF73F3F80BBFCDA2C76BBB3C9F4892B2FA81ED2B71D9",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/lowmemory-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/lowmemory-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1258,7 +1258,7 @@
         "date": "2020-12-10",
         "sha512sum": "B624E6921491074099BF0050AC4BD9B42CEA27D03E528294450088529640DC92472A9D6AB9A36527C2BE1894BCF7FEFA5C3074059613A9FDFCF0299901CCCD3E",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/maxhit-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/maxhit-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1274,7 +1274,7 @@
         "date": "2020-12-10",
         "sha512sum": "15001123608C2E450C939F835D444868F198C2AAFEE7904B2C4CB222C08563E63CB43D144C65E3ED16434F875CAF597A07D4136E7D5165F115FBF52B4E083898",
         "version": "0.0.23",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/menuentryswapper-0.0.23.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/menuentryswapper-0.0.23.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1290,7 +1290,7 @@
         "date": "2020-12-10",
         "sha512sum": "D61042B88BCAE10C034A76A58515341379E9E1BFAC75E56D186A7BA3D2760F7BC3C31C5AD83E9118C501D64A2B1808B20A1EE360A9184BE1DB0515FDC2E8F8C7",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/metronome-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/metronome-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1306,7 +1306,7 @@
         "date": "2020-12-10",
         "sha512sum": "F53EB12887408DE4CE2127A705E25747D6A1F9E30CB6112947A350EE5E139A3693405392BB824ED79D50C9F81B19670F031063F96FF252349AC49A4124298AAB",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/minimap-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/minimap-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1322,7 +1322,7 @@
         "date": "2020-12-10",
         "sha512sum": "6D3EBA749A37625DB5C47B3346AF4CFDB10B9CBEEBD85F4691492ED10A04ECA69FF77335EFB13EEB16D2364E5D285DA0BD9896C01D737C38F4E6D0008F6BC91F",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/mining-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/mining-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1338,7 +1338,7 @@
         "date": "2020-12-10",
         "sha512sum": "2010FF27909754E762E884D7C47ED737C948A7382BFA907B14E55B044B3E44D4B343B3E8FF6FCBE928DD261F011BFC40067FCDBAD150F33F35C3847E762FC60A",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/mirror-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/mirror-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1354,7 +1354,7 @@
         "date": "2020-12-10",
         "sha512sum": "DE96E29B64920FF3426E3B6148B4202CA3D1F738D41CED0A3E55CEB58939DE96536DD1DE03E746678F1D80BC1B42426286A6DB9F9A546BD19FD658CA245A7302",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/motherlode-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/motherlode-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1370,7 +1370,7 @@
         "date": "2020-12-10",
         "sha512sum": "AB79E6A257A0697AAA561420872BF04BB727758B2B5F968DEE712817A117BE2C378B34F2734631ADA57C602A53ACD24BCDB87AF5E3C070FAEDE7E8BAADFFEB60",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/mousehighlight-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/mousehighlight-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1386,7 +1386,7 @@
         "date": "2020-12-10",
         "sha512sum": "97B39F61D27404019DA11C403D0C56997075A102304861DD6C42DDBAB634572F653E8D8EDF32B99159D6B884BC42B9172123A2243DD37F3407E7289652749D00",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/mta-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/mta-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1402,7 +1402,7 @@
         "date": "2020-12-10",
         "sha512sum": "C16F03F83E93CC4707349C73221C2E168838651FAB25F80C93B1E204271AC1BF448EB553315703FE2B4FB4D32E26558D0934644DE33CABE319A8F593AB8736A0",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/music-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/music-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1418,7 +1418,7 @@
         "date": "2020-12-10",
         "sha512sum": "5DFD9A26E7F11C162DE77B4DCA87ED872374EA835BE8EB2FB5EAA723E39E9B4B069AEA4018216721CEC6DBC5B42E3836D5EFDECA9ED7482FE8D4F5DBFEB89C19",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/neverlogout-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/neverlogout-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1434,7 +1434,7 @@
         "date": "2020-12-10",
         "sha512sum": "C217EEF8DDDDC005A5FF90B46500E9B6AC4B8234C3391BA357BF89DD463F957DFA0962B42909B6FC14060364C753A0EFC65B57D8623FB4A7BEFEB22F8FFF6C40",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/nightmarezone-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/nightmarezone-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1450,7 +1450,7 @@
         "date": "2020-12-10",
         "sha512sum": "03DF2CD2740198F0A880BDCE39649688B9B775E63C19660626435651C15638191DB86B868E911A9EBCFE4C075258F105DE1D6A622ACCB479DFE2146CFFE5B3C6",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/notes-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/notes-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1466,7 +1466,7 @@
         "date": "2020-12-10",
         "sha512sum": "E71619FE4AF076B50ADAFB711A64D2BDBD2445EF653BD46FC9FA0CED0281DEC2A02936B159A34753CA1A4D46AFF16A3600AAEF95F518036262135649872350E7",
         "version": "0.1.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/npchighlight-0.1.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/npchighlight-0.1.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1482,7 +1482,7 @@
         "date": "2020-12-10",
         "sha512sum": "6B76FDBC7F0B6B6169223F475B13E01A6FFBCE7ABA40EA90F7691156EACBF5B00A151A18C71DA2C2CD9BCCC3FFC331E302AEB8406280F81DE3DE97E1D107D8B3",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/npcstatus-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/npcstatus-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1498,7 +1498,7 @@
         "date": "2020-12-10",
         "sha512sum": "B1A1D451E83346EB11A1460E23196AD56A4071622C76F3B4561B1FE9E4C8C55AA90D6373B175E13ADCCE9D89D5F1A3B2E108F62FD13EFF05E6C3A6A402CC8339",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/npcunaggroarea-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/npcunaggroarea-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1514,7 +1514,7 @@
         "date": "2020-12-10",
         "sha512sum": "38F6451C2E09A24FE9B720E220B93AB3787437CFA7BC2C1015E460FCF175E92F2BA55105C5C00BD602B9453831C46204A2282CFACF3D1720E4281D563A36D9EA",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/objectindicators-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/objectindicators-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1530,7 +1530,7 @@
         "date": "2020-12-10",
         "sha512sum": "77B6AF58F0F7D97098C1DF62469CA42D074A19137D35470A9A9C4DE289B858DB05A9C1D930AD36FD3C236BF40ADBC79F7B5070B0AE5B60B34AA840E60D18339D",
         "version": "0.0.10",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/opponentinfo-0.0.10.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/opponentinfo-0.0.10.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1546,7 +1546,7 @@
         "date": "2020-12-10",
         "sha512sum": "ABC6F129C2C4B66D0BF8F74D4C76152BB9CDB1DB01025082D3BA2662CBA11911A2E81FA820CE7B008D8D3C6C2605D3259CD396D81053CA958A9E24211E910938",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/party-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/party-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1562,7 +1562,7 @@
         "date": "2020-12-10",
         "sha512sum": "3C3D2BD73092EF40A73B8504B4BC47A6A9A08467E9D672020D63F3B61DD9DCC65F0D7704E16B76AE06E35F16678FAE473D3C0CC9C2932A094ECACF97C87C10EB",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/performancestats-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/performancestats-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1578,7 +1578,7 @@
         "date": "2020-12-10",
         "sha512sum": "8D870DAA5E878B11FF837E97C6CDBF3132B302B62F3CB008CEE02321BB57058FE942114D582907A15E93BFB147BA64C543A9B98B29B16AEDA55D625B6716EFC8",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/pestcontrol-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/pestcontrol-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1594,7 +1594,7 @@
         "date": "2020-12-10",
         "sha512sum": "6E6CFDDC0A89BFF577D6A65973EF139F3011ADFE0C96C4627D6EA37C9B42405F6BC1115D8CE5E66528B6AA5116251F7AFB393E7F971B1EA7895F9FB3CD5C6299",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/playerindicators-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/playerindicators-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1610,7 +1610,7 @@
         "date": "2020-12-10",
         "sha512sum": "5A4BB3A389F4B9A0358F0F5CA4DBBB23C30D2200FA6E30B589430589D795E00DF9EF57FFB446EFF2669576FDCB01E58D663757688A41245FBBE99AC359B51C41",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/playerinfo-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/playerinfo-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1626,7 +1626,7 @@
         "date": "2020-12-10",
         "sha512sum": "469F51A75567361C3F366213435D207D0BD4994ACFD12A75B404DFBCD51B453D69B818940E47FC142E7D62BCE85D762FD8011A1E905798418C9F63DE414C612F",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/poh-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/poh-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1642,7 +1642,7 @@
         "date": "2020-12-10",
         "sha512sum": "C0B36B2F7A17AC429FC9D7F559E31D0905BF13F220F7A1106271853E8E004C4B12BE066A38CFCDA7B9D169715F2FDED6B89BE062F9A404D770B268C937EBA8CE",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/poison-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/poison-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1658,7 +1658,7 @@
         "date": "2020-12-10",
         "sha512sum": "F0B6F05DC3738079BAD31CF048DA0A51812BBAF4BBCDC17EB9590F805A8158A70F543AAE22F05103B61756A92606A864AF396B468DA66092238971E49F6AB7B0",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/prayer-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/prayer-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1674,7 +1674,7 @@
         "date": "2020-12-10",
         "sha512sum": "BE8EA969CE5CB852FC59436D0C39A02E3F4B53A6328F6D8F5F7120DB82F0B988D50FD12BA4C10E2BDAA7BEA1BF5A30B73650EF61F751A87E4D792FDBB4418817",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/prayeralert-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/prayeralert-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1690,7 +1690,7 @@
         "date": "2020-12-10",
         "sha512sum": "8F42D50F868AB3558AE59894B6AD215CAA06B729593EA13BA9C9139CF42759C73CA1C9EA35E84F78F302F007031058E4E774C10253A619BB5655BC2FBE52E176",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/privateserver-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/privateserver-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1706,7 +1706,7 @@
         "date": "2020-12-10",
         "sha512sum": "094B2E54713015EBF7BB9C8C7AFB0420BD2ADA98BF5507304DC51EF157D13C751AF51619C8EB13A7510D3028EDA1B3075285C6B9F6DA4757210A06E4E7F2B296",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/profiles-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/profiles-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1722,7 +1722,7 @@
         "date": "2020-12-10",
         "sha512sum": "6DB4AD7FFD944451519C3F1CF4722A1D55C3BD846D693DF10EA4446DF1ACDFEB323B419540C3835E9A59BF54872EB0EE3223744D725346437BF1EA1657ACEF53",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/puzzlesolver-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/puzzlesolver-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1738,7 +1738,7 @@
         "date": "2020-12-10",
         "sha512sum": "E0591342EBFCD3B2092EA493CED2483B071434B89230D6D4EBAB22C8ECC0EA0A57DE64CB2E27608491B730F8250F0EF50A6C796F628DD8BC3144C0133437F5BE",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/pyramidplunder-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/pyramidplunder-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1754,7 +1754,7 @@
         "date": "2020-12-10",
         "sha512sum": "8AF37040F154116E2FA937603C57B46273D2D2EE5B8D378C86C299074D554B4D3EF637B0746529626C4EE3C1A5F003941304E8AA7CD9A590BCA5673FA9AC7AD8",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/questlist-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/questlist-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1770,7 +1770,7 @@
         "date": "2020-12-10",
         "sha512sum": "1DE54D2185A3DE2141F54DC85C22654E9C870595BE4181793BF556E3F283FD3BE853AB4212C69DEE3B14E897A6C1D4F4C99FB760AA8B3C12D6853C0721298468",
         "version": "0.0.18",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/raids-0.0.18.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/raids-0.0.18.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1786,7 +1786,7 @@
         "date": "2020-12-10",
         "sha512sum": "EEA1102104AB2F5F247830EF9EFD2D98975216CC5A895ED3252667BFA6B3FBC74F0928D64F3216EC8A2D82E4E7677D60377188918034BCA9D98DEF0B0B17AD74",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/raidsthieving-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/raidsthieving-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1802,7 +1802,7 @@
         "date": "2020-12-10",
         "sha512sum": "E4C469FCE3CD0E6F0308F9BA499AC7F47CD8C83936537EB03AC269DA611B34BF7CE14B548DDDB494AD37C05E83612F0A69ACDD234F5DA9AD92873246CD0F85AD",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/randomevents-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/randomevents-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1818,7 +1818,7 @@
         "date": "2020-12-10",
         "sha512sum": "FF49AB5C7D5CD1E3BA20AF6DAD0F18D100777361CE66B68786569AEE6CD636B98F628135CF709F0BA883DE70C96764A518CB79DFDB13588F298B4FBA4C5AE544",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/reminders-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/reminders-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1834,7 +1834,7 @@
         "date": "2020-12-10",
         "sha512sum": "9979FFF52AD04FBA585DAAB39582717FDFF61B3FC36F0D61F4493C5762822C55C02D46E9695EA36FB9DE4CCB734E56067B12A761AD6EDD09958C3D904AECFD33",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/reportbutton-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/reportbutton-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1850,7 +1850,7 @@
         "date": "2020-12-10",
         "sha512sum": "21FF77535232BA072FF1CCDCD0154AE92A65C2C066DAEDC4FB3CC89AFC11C8716F753C6707D5156CB8C7879F4E075DE35B9B8EA193A9E633E9137F80A5032A61",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/roguesden-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/roguesden-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1866,7 +1866,7 @@
         "date": "2020-12-10",
         "sha512sum": "B2E3669B3032F52954AAD01EF4D7CFDF74297F94CEDBFF9F43EDCDBCB6AE50766059AF1BA43D58401703A0078D273356C355C9B843F6A9C12F85C4C3E0F0EDE7",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/runecraft-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/runecraft-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1882,7 +1882,7 @@
         "date": "2020-12-10",
         "sha512sum": "0E5074C0E9CDD242D81D8FD4389493F0A5D76B3F33B9752226E986ACF80387B2EF19F52EE41FF0E697515BAB1B1D4BE9C830291B5E68727762D9A250A16673C0",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/runepouch-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/runepouch-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1898,7 +1898,7 @@
         "date": "2020-12-10",
         "sha512sum": "C851D6E8462D0CDAB5EE8E6C0AA265B3F4E53CDE7486B52D5109DB00F095F00527205F40D968E35BE074DBD9F3F512C6A9BAD1E2888B7F8A65C156DD2C124154",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/screenmarkers-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/screenmarkers-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1914,7 +1914,7 @@
         "date": "2020-12-10",
         "sha512sum": "8788907348552A6B63B0E0F96EE4A44635E3A332731182384F3C176CC04DE1CD5912B466754DCEE053AF0023294AD76F154630521B1DA170C0EB8E6107AEA03B",
         "version": "0.0.16",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/screenshot-0.0.16.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/screenshot-0.0.16.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1930,7 +1930,7 @@
         "date": "2020-12-10",
         "sha512sum": "00DC62DA9BD7D58F391EA138EC34B64A66CBAEF9931F4F12D49931A297A7E6181B390890E23A74E12B4A5FE70855D0494178B26D9C143C6182C2AFB7DC07B7C8",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/shayzieninfirmary-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/shayzieninfirmary-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1946,7 +1946,7 @@
         "date": "2020-12-10",
         "sha512sum": "2453AD9BE08725386EC4BA3CAEB439B7C318E3549FA58BB248E64CFA9D23D847CF8ACC70BAECC68887BD343D6250E924AF524A45830603AFF2C9D22C5042418A",
         "version": "0.0.13",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/skillcalculator-0.0.13.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/skillcalculator-0.0.13.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1962,7 +1962,7 @@
         "date": "2020-12-10",
         "sha512sum": "0C62CB99BF5E316D96E80B78997C52250138DD8D9246EE971769D3B8264F43D62EFDC1BB89575857E2B151BFB9F4DCC2918376A54E9550F020345D014CDFFF28",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/skybox-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/skybox-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1978,7 +1978,7 @@
         "date": "2020-12-10",
         "sha512sum": "A9F5319D8740382456C75EAC5E1E2C84FF6B3D9801817A60CE7FEEDF650E93C100E8FAD19F7A805077035A7F2AD5701E89765AD8D87C4837F0BACFB2D4752A87",
         "version": "0.0.16",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/slayer-0.0.16.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/slayer-0.0.16.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -1994,7 +1994,7 @@
         "date": "2020-12-10",
         "sha512sum": "422EF67FD86F0F084B6776863D3C2416FE7FFE7103F484731E3EE496048DA8DFD46B9DD34381124F40C6737678D28275B88E149F7CFF4716E33AA96BCFF21363",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/slayermusiq-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/slayermusiq-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2010,7 +2010,7 @@
         "date": "2020-12-10",
         "sha512sum": "A1A3FF78029FBAE3A68ACE19EFBA653FF685AF3D1DEABA6A985E020067350FAE2E56423FEFF10A6669AA49B759A11FB20A251625F0BD466DBC0B310D85009F10",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/smelting-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/smelting-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2026,7 +2026,7 @@
         "date": "2020-12-10",
         "sha512sum": "50F9FFC7EEFF4F848D0CC803E16427993C377760EAC0E3AA4F3851A9BBD6EB67A03D02114E591ED3427B358E9635E788024F4078EA8CC1D60A12E4865529DBB2",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/spawntimer-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/spawntimer-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2042,7 +2042,7 @@
         "date": "2020-12-10",
         "sha512sum": "31B3AC38F526ECFB0973B0A4548C126D1E6ED74BF77FE79CE88BCC2FBFB578AF7EB2C1B1777AC1D93D0D830A2C99BC07486A685E300555A66A6AB9D46C2D0158",
         "version": "0.0.8",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/specialcounter-0.0.8.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/specialcounter-0.0.8.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2058,7 +2058,7 @@
         "date": "2020-12-10",
         "sha512sum": "9562D2A1AF64CDD5953D5DB37F0C854DAC61281C20F59206B15302088F2C797F5DFA78D7704136A21F7E3B3714EBE7F6838D9C1E443D4A7A3D21F940C3ED9055",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/statusbars-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/statusbars-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2074,7 +2074,7 @@
         "date": "2020-12-10",
         "sha512sum": "1C833602AE6252D388A8D4F8A6B0BCD3C9FA569697763F8DEFDBFBA55451F01572B422E5E7928E61664F0EAC8553587420E1735A047BE24C73723ECA24E43FAA",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/statusorbs-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/statusorbs-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2090,7 +2090,7 @@
         "date": "2020-12-10",
         "sha512sum": "E18CFCADC09C8045F44324F95EA4BB8E247B6A2A48F5B09609BF2FCBE45D81801AEE311A472A665CD8C3B270481FF04F13E1EE7CCB6403F68E3AC5A8D88B2B3B",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/stealingartefacts-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/stealingartefacts-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2106,7 +2106,7 @@
         "date": "2020-12-10",
         "sha512sum": "33F82856228EDE9EF342ED4821CA7C8E87EEBB2D1713ABFA199330C6AA0A34BDC96058A26BD2B3705C639A712732A25FB170486C0A82390E69A835146F74AD74",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/stretchedmode-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/stretchedmode-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2122,7 +2122,7 @@
         "date": "2020-12-10",
         "sha512sum": "0941070AE5B1875E05E81A1CEDB12ED9E980ACDA89623C6934BB67D7FFCE7B0870942838B2BEB67E48CEBFC8E2D188CDEA9892ACF7D11549C832A6B9E2DCA186",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/suppliestracker-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/suppliestracker-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2138,7 +2138,7 @@
         "date": "2020-12-10",
         "sha512sum": "EC4860433A6D4BB4FB450A621ED528F801B64A3CCCEF50C6678A996E7AB7B34D9BE4C4CB147B450C2928F6158E03FCFCF87A40CFF86C8B729E7AAA2E93DE0FAF",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/teamcapes-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/teamcapes-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2154,7 +2154,7 @@
         "date": "2020-12-10",
         "sha512sum": "C41756F28E77270053DC719B83C10069A88F53922B21AADAD7D42060B4BD88929CDA8D9E58265355B9E4C6A5BA2888C13B2ADB42B11435E408E23E8516166429",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/tearsofguthix-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/tearsofguthix-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2170,7 +2170,7 @@
         "date": "2020-12-10",
         "sha512sum": "A99AD0CBC294B7C6EB703A162745E57A40070CC820C822F7A4AA9D8DFAF7FD1DEC90D92823BDF33D92FF5822281E6B893B7B381C1F39A7A506CA1A6FACCB3C79",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/thieving-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/thieving-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2186,7 +2186,7 @@
         "date": "2020-12-10",
         "sha512sum": "2ED2E122779D7A6567DF38AA3AF33E70DE082202CB20390F65EDC462D18F3712764D2395F92F31D236916C518F5869D0918ABF4F222B2CFC71194B46F09F36BB",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/tickcounter-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/tickcounter-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2202,7 +2202,7 @@
         "date": "2020-12-10",
         "sha512sum": "DFB1710D3AD55F9B36BD54BBB269288B69CFE90F582141BEA667F069A3AC4CC8DFA4280BCDE802A376B84793D68E03F1A0A919B91892F5097C683887820F5CB9",
         "version": "0.0.3",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/tileindicators-0.0.3.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/tileindicators-0.0.3.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2218,7 +2218,7 @@
         "date": "2020-12-10",
         "sha512sum": "76601884C0B123C9D87517EDDDC762D7C135AE24993238A6F2CD561C6CCB8FCF06F75E6D51A185575EF92C2A39605F8FA62E8708AC147A0820EB0AC957B846D4",
         "version": "0.0.11",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/timers-0.0.11.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/timers-0.0.11.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2234,7 +2234,7 @@
         "date": "2020-12-10",
         "sha512sum": "E5EB6F92BCCECA5AEED2AA01123A2D972EFA93CF6866FCA9C1A4D80AE6C35CA8B2C05AF57CB060213038250217E0AD1878FDA5A6E42CC3DD5B69F10FA657E541",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/timestamp-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/timestamp-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2250,7 +2250,7 @@
         "date": "2020-12-10",
         "sha512sum": "863D5EB68CF822FD8AA2788FED6C8E6D5BDBF52691A2B5FE2C0BE28B4FE48B6E781F4C00220DF45583B16100C42C38770F0DEA2D132534AD22415728F7C2DC75",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/timetracking-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/timetracking-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2266,7 +2266,7 @@
         "date": "2020-12-10",
         "sha512sum": "1A9E876CB0BCF6CD24B0683BBB6C23EEA1048DC9A6A331ADB4BB49D5970B2FFF7443A947A1D601412B56CEA3FD1F946BE988E3F6A8F0382040E75B69E9097F67",
         "version": "0.0.2",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/tithefarm-0.0.2.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/tithefarm-0.0.2.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2282,7 +2282,7 @@
         "date": "2020-12-10",
         "sha512sum": "F8B91C0E89FBDA9507F664235A0EF8F1BF4BB64810BBD2695FADA40142F1608764933AA7C0A71D9D836CF0E2F17AB14D653EA9B81655A6B5D56B78B0F15AB09E",
         "version": "0.0.5",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/tmorph-0.0.5.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/tmorph-0.0.5.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2298,7 +2298,7 @@
         "date": "2020-12-10",
         "sha512sum": "2501D496C5B495BC50D90AEBD8709CD18A81F10F67C11F428C54918D2BD5730731883853A48C0C6C13B497C163B24F40F97722B36485080621F9F336B3566ECD",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/twitch-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/twitch-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2314,7 +2314,7 @@
         "date": "2020-12-10",
         "sha512sum": "77154899252F319FC881CCB1DDF339979D8E81F063954119CA3C473A9498653427A7C51273A5E7587D23D906AF632AB248853124B45E456A79BCBC6B9F7DD723",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/virtuallevels-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/virtuallevels-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2330,7 +2330,7 @@
         "date": "2020-12-10",
         "sha512sum": "94C087FEBB0BAFA448A77505D96620C364A3CC4ADAB9EC94E8838DFC658BCF41EC7554FD0AD588EED288E916755E7C51011853C80C4CCF451104E0E8F77FB412",
         "version": "0.0.6",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/wiki-0.0.6.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/wiki-0.0.6.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2346,7 +2346,7 @@
         "date": "2020-12-10",
         "sha512sum": "EA2C7EA122C49576B9629A9498975A829E1FEA541C0F96ED10ECEE320F90CFFA97CEBA52481895BD5A814F86E912C7AAA4782428F7A1D85923A9DAE78A4A669F",
         "version": "0.0.7",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/wintertodt-0.0.7.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/wintertodt-0.0.7.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2362,7 +2362,7 @@
         "date": "2020-12-10",
         "sha512sum": "F289A2D8012CB39168F3550B378AF95BD1872BDF20BC52A5A1AB785AD08B180908E7255CBE52E173DFA52DBE498F2AE8153E7216F05307F9C7C9DAC101364F12",
         "version": "0.0.9",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/woodcutting-0.0.9.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/woodcutting-0.0.9.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2378,7 +2378,7 @@
         "date": "2020-12-10",
         "sha512sum": "90D88E46639B11F3E9DB6D4B505C63A678B75932E270E04EBC8A9602AE02CA51E74A351234F7990E7AD5D4C6C7AE80F1F0C6FA31380851447BD18B41B0A77ECB",
         "version": "0.0.9",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/worldhopper-0.0.9.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/worldhopper-0.0.9.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2394,7 +2394,7 @@
         "date": "2020-12-10",
         "sha512sum": "D6426D3728D3A8886E73184B1D4FB8BCAF772406F651526A40EE7284DD6CFC682F0EE28120854F65A4DE735A2687F68FF865246FF68A3B7122AE64DFA4C9F17F",
         "version": "0.0.17",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/worldmap-0.0.17.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/worldmap-0.0.17.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2410,7 +2410,7 @@
         "date": "2020-12-10",
         "sha512sum": "4A66E7DE9F15F11AD7136975210EC04E8D3288940F2A453F25B0419149C1D36488A1A3823DF2BD3649C9A73D58272742A5E685741CC233181E0E7435D3EF3A67",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/xpglobes-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/xpglobes-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2426,7 +2426,7 @@
         "date": "2020-12-10",
         "sha512sum": "BCEB93AD1BD7D37268D22D95B8602452EA283BA2C71829B6A30B9AECD99A938DF8D288B656DB9A97B8FD7E35919DBB9FFE2F6421AB8E58AAA51324652DFC373B",
         "version": "0.0.11",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/xptracker-0.0.11.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/xptracker-0.0.11.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
@@ -2442,7 +2442,7 @@
         "date": "2020-12-10",
         "sha512sum": "E1A2F6C0604DBA50A9E1FA5F243ECA4F99F4F52E5443F69AE75F690E1636EAB898AF004F7634BD3864313B52E569D8CC6B49AB3C53BB967C0CCD7D5EBF9690AA",
         "version": "0.0.4",
-        "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/xpupdater-0.0.4.jar?raw=true",
+        "url": "https://github.com/Shadowrs/openosrs-pluginhub-rev190/blob/master/release/xpupdater-0.0.4.jar?raw=true",
         "requires": "0.0.1"
       }
     ]
